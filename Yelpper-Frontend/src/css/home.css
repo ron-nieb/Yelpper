@@ -1,0 +1,12 @@
+
+
+
+
+
+#coverimg {
+    width: 150%;
+    height: 100vh;
+    background-image: url("https://shorturl.at/jpDNX");
+    background-repeat: no-repeat;
+    object-fit: fill;
+}

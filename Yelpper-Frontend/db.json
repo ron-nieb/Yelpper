@@ -1,0 +1,306 @@
+{
+    "reviews": [
+      {
+        "id": 101,
+        "image": "https://m.media-amazon.com/images/I/51Sn8PEXwcL._SL320_.jpg",
+        "user": "Sapiens",
+        "author": "Yuval Noah Harari",
+        "Hotel": "Non-fiction",
+        "Review": "How our species succeed in the battle for dominance",
+        "language": "English",
+        "available": true,
+        "available_books": 30
+      },
+      {
+        "id": 102,
+        "image": "https://m.media-amazon.com/images/I/41shZGS-G+L._SL320_.jpg",
+        "user": "Thinking, Fast and slow",
+        "author": "Daniel Kahneman",
+        "Hotel": "Non-fiction",
+        "Review": "How two systems — intuition and slow thinking — shape our judgment, and how we can effectively tap into both.",
+        "language": "English",
+        "available": true,
+        "available_books": 50
+      },
+      {
+        "id": 103,
+        "image": "https://m.media-amazon.com/images/I/5134WJ0XM7L._SL320_.jpg",
+        "user": "Brave New World",
+        "author": "Aldous Huxley",
+        "Hotel": "Non-fiction",
+        "Review": "The novel examines a futuristic society, called the World State, that revolves around science and efficiency.",
+        "language": "Engish",
+        "available": true,
+        "available_books": 27
+      },
+      {
+        "id": 104,
+        "image": "https://m.media-amazon.com/images/I/51S2PyWhw8L._SL320_.jpg",
+        "user": "The culture code",
+        "author": "Daniel Coyle",
+        "Hotel": "Non-fiction",
+        "Review": "Analysis of how humans work together and how they might keep each other from doing so.",
+        "language": "English",
+        "available": true,
+        "available_books": 43
+      },
+      {
+        "id": 105,
+        "image": "https://magazine.artland.com/wp-content/uploads/2020/07/thecollector-1.jpg",
+        "user": "The Collector",
+        "author": "John Fowless",
+        "Hotel": "Crime Fiction",
+        "Review": "A story of freedom, obsession, pathology and fantasy.",
+        "language": "Spanish and English",
+        "available": true,
+        "available_books":15
+      },
+      {
+        "id": 106,
+        "image": "https://magazine.artland.com/wp-content/uploads/2020/07/12_oyster_art_forger-1-682x1024.jpg",
+        "user": "The Art Forger",
+        "author": "B.A Shapiro",
+        "Hotel": "Thriller",
+        "Review": "A young Native girl investigates the mysterious disappearance of women from her tribe's reservation.",
+        "language": "English",
+        "available": true,
+        "available_books": 45
+      },
+      {
+        "id": 107,
+        "image": "https://ars.els-cdn.com/content/image/3-s2.0-C20090215625-cov200h.gif",
+        "user": "Applied Groundwater Modelling",
+        "author": "Mary R.Anderson",
+        "Hotel": "Educative",
+        "Review": "Creating numerical groundwater models of field problems.",
+        "language": "English",
+        "available": true,
+        "available_books": 100
+      },
+      {
+        "id": 108,
+        "image": "https://ars.els-cdn.com/content/image/3-s2.0-C20170028689-cov200h.gif",
+        "user": "Business Process Change",
+        "author": "Paul Harmon",
+        "Hotel": "Educative",
+        "Review": "A Business Process Management Guide for Managers and Process Professionals.",
+        "language": "English",
+        "available": true,
+        "available_books": 97
+      },
+      {
+        "id": 109,
+        "image": "https://ars.els-cdn.com/content/image/3-s2.0-C20090631603-cov200h.gif",
+        "user": "Death Penalty Cases",
+        "author": "Barry Latzer",
+        "Hotel": "Educative",
+        "Review": "Presents significant verbatim excerpts of death-penalty decisions from the United States Supreme Court.",
+        "language": "English",
+        "available": true,
+        "available_books": 75
+      },{
+        "id": 110,
+        "image": "https://ars.els-cdn.com/content/image/3-s2.0-C20130135350-cov200h.gif",
+        "user": "Disaster Theory",
+        "author": "David Etkin",
+        "Hotel": "Educative",
+        "Review": "An Interdisciplinary Approach to Concepts and Causes.",
+        "language": "English",
+        "available": true,
+        "available_books": 63
+      },
+      {
+        "id": 111,
+        "image": "https://ars.els-cdn.com/content/image/X15677192.jpg",
+        "user": "Handbook of Analytical Separation Series",
+        "author": "Georg Hempel",
+        "Hotel": "Scholarly",
+        "Review": "The professional network for scientists.",
+        "language": "English",
+        "available": true,
+        "available_books": 35
+      },
+      {
+        "id": 112,
+        "image": "https://m.media-amazon.com/images/I/41l02vDN4pL.jpg",
+        "user": "And Then There was None",
+        "author": "Agather Christie",
+        "Hotel": "Mystery",
+        "Review": "The story revolves around a group of strangers who are all invited to an island off the English coast. ",
+        "language": "English",
+        "available": true,
+        "available_books": 40
+      },
+      {
+        "id": 113,
+        "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1368789521l/12182809.jpg",
+        "user": "The girl with the Dragon Tattoo",
+        "author": "Stieg Larsson",
+        "Hotel": "Drama",
+        "Review": "A spellbinding amalgam of murder mystery, family saga, love story, and financial intrigue. ",
+        "language": "English",
+        "available": true,
+        "available_books": 55
+      },
+      {
+        "id": 114,
+        "image": "https://m.media-amazon.com/images/I/51tLG3pRI0L.jpg",
+        "user": "The silence of the lambs",
+        "author": "Thomas Harris",
+        "Hotel": "Horror",
+        "Review": "Psychoanalyzing a killer in order to find another killer. ",
+        "language": "English",
+        "available": true,
+        "available_books": 60
+      },
+      {
+        "id": 115,
+        "image": "https://m.media-amazon.com/images/I/51HTNMxA7yL.jpg",
+        "user": "The Moonstone",
+        "author": "Wilkie Collins",
+        "Hotel": "Detective fiction, suspense",
+        "Review": "The attempt to illuminate the ultimate purpose of human life.",
+        "language": "English",
+        "available": true,
+        "available_books": 70
+      }
+    ],
+    "hotels": [
+      {
+        "id": 201,
+        "image": "https://blogs.library.duke.edu/bitstreams/files/2021/04/49676815523_ce44dd51ff_o.jpg",
+        "hotel_name": "Non-fiction",
+        "location": "3rd floor",
+        "capacity": "3 per table",
+        "availability": true,
+        "reservations_available": 5
+      },
+      {
+        "id": 202,
+        "image": "https://www.ucl.ac.uk/library/sites/library/files/styles/large_image/public/students-studying.jpg?itok=2LLEDKUk",
+        "hotel_name": "Non-fiction",
+        "location": "1st Floor",
+        "capacity": "4 per table",
+        "availability": true,
+        "reservations_available": 20
+      },
+      {
+        "id": 203,
+        "image": "https://www.wlv.ac.uk/lib/media/departments/lis/images/news/Study-space-update-Oct-2022---Harrison.jpg",
+        "hotel_name": "Non-fiction",
+        "location": "2nd Floor",
+        "capacity": "2 per table",
+        "availability": true,
+        "reservations_available": 8
+      },
+      {
+        "id": 204,
+        "image": "https://wagner.edu/library/wp-content/blogs.dir/6/files/2013/06/StudyRoom.jpg",
+        "hotel_name": "Drama",
+        "location": "5th Floor",
+        "capacity": "10 per room",
+        "availability": true,
+        "reservations_available": 12
+      },
+      {
+        "id": 205,
+        "image": "https://cdn.prgloo.com/media/f7183b87f17540319463906a270590e1.jpg?width=1200&height=1800",
+        "hotel_name": "Detective fiction, suspense",
+        "location": "2nd Floor",
+        "capacity": "20 per room",
+        "availability": true,
+        "reservations_available": 5
+      },
+      {
+        "id": 206,
+        "image": "https://i.pinimg.com/originals/f9/f6/5b/f9f65bf158bd4def6bb5810ac0804f3b.jpg",
+        "hotel_name": "Horror",
+        "location": "4th Floor",
+        "capacity": "4 per room",
+        "availability": true,
+        "reservations_available": 15
+      }
+    ],
+    "periodicals": [
+      {
+        "id": 301,
+        "image": "https://ars.els-cdn.com/content/image/X17427061.jpg",
+        "user": "Acta Biomaterialia",
+        "editor": "Dr.Wagner",
+        "description": "An international journal on the relationship between biomaterial structure and function.",
+        "Hotel": "Scholarly",
+        "availability": true,
+        "periodicals_available": 17
+      },
+      {
+        "id": 302,
+        "image": "https://study.com/cimages/multimages/16/450_army_history_issue_1181837502187613722429.jpg",
+        "user": "ArmyHistory",
+        "editor": "Travis Morger",
+        "description": "The history of wars, and of armed forces in peace as well as in war.",
+        "Hotel": "Magazine",
+        "availability": true,
+        "periodicals_available": 20
+      },
+      {
+        "id": 303,
+        "image": "https://images.squarespace-cdn.com/content/v1/5f455573fe660c2259200b3c/1655594059981-O8BWD53QCSLF6CM0J88B/plastikcomb+magazine+image+2.jpg",
+        "user": "Plastikcomb Magazine",
+        "editor": "Aaron Beebe",
+        "description": "a biannual, analog art publication that pays homage to the great magazines of the past.",
+        "Hotel": "Art Magazine",
+        "availability": true,
+        "periodicals_available": 24
+      },
+      {
+        "id": 304,
+        "image": "https://artnexus.com:3000/uploads/2019-10-21T14:36:10.813Z001657df-1e0d-4576-98ad-af9c9bba2ec6.jpg",
+        "user": "Art Nexus",
+        "editor": "Celia Sredni de Birbragher",
+        "description": "Cover the contemporary art of Latin America.",
+        "Hotel": "futuristic survival drama",
+        "availability": true,
+        "periodicals_available": 35
+      },
+      {
+        "id": 305,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFHRPqb8KBzg-bKzQjuqtF3Btb5xtc3lCEIg&usqp=CAU",
+        "user": "Art Forums",
+        "editor": "David Velasco",
+        "description": "Delivers informed and inspired criticism and analyses concerning the latest developments in modern and contemporary art.",
+        "Hotel": "Contemporary Art Magazine",
+        "availability": true,
+        "periodicals_available": 33
+      },
+      {
+        "id": 306,
+        "image": "https://apollo.imgix.net/content/uploads/2020/02/001_apollo_march2020.jpg?auto=compress,format&crop=faces,entropy,edges&fit=crop&w=624&h=808",
+        "user": "Apollo",
+        "editor": "Behrens",
+        "description": "An English-language monthly magazine covering the visual arts of all periods from antiquity to the present day.",
+        "Hotel": "Magazine",
+        "availability": true,
+        "periodicals_available": 37
+      },
+      {
+        "id": 307,
+        "image": "https://ars.els-cdn.com/content/image/X00018686.jpg",
+        "user": "Advances In Colloid and Interface Science",
+        "editor": "G.Gochev",
+        "description": "An International Journal Devoted to Experimental and Theoretical Developments in Interfacial and Colloidal Phenomena.",
+        "Hotel": "Peer-reviewed scientific journal",
+        "availability": true,
+        "periodicals_available": 25
+      },
+      {
+        "id": 308,
+        "image": "https://ars.els-cdn.com/content/image/X25424327.jpg",
+        "user": "Advances In Cosmetic Surgery",
+        "editor": "Gregory.H.Branhamn",
+        "description": "A yearly multi-specialty publication, brings you the best current practice from the preeminent practitioners in plastic surgery, facial plastic surgery, cosmetic dermatology, and oculoplastic surgery. ",
+        "Hotel": "electronic journal",
+        "availability": true,
+        "periodicals_available": 45
+      }
+    ]
+  }
