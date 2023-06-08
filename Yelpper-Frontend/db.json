@@ -29,6 +29,12 @@
       "date": "2023-06-05",
       "editing": false,
       "review": "good one "
+    },
+    {
+      "user": "",
+      "comment": "",
+      "hotelId": 1,
+      "id": 4
     }
   ],
   "users": [
@@ -81,6 +87,18 @@
       "reviews": [
         3
       ]
+    },
+    {
+      "name": "rnoo",
+      "location": "nai",
+      "amenities": [
+        "Wi-Fi",
+        "Parking",
+        "Swimming Pool",
+        "Gym"
+      ],
+      "description": "jdd",
+      "id": 3
     }
   ]
 }
