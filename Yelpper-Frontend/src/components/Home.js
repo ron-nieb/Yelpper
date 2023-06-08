@@ -14,7 +14,7 @@ export default function Home() {
                    
                    <div id="coverimg">
                        
-                       <h1>The Perfect Hotel Reviews</h1>
+                       <h1>The Perfect Restaurant Reviews</h1>
                        <p>We have reviews from over 100000+ users</p>
                        <a href="#topreview" role="button" className="btn btn-warning btn-lg">Top Review</a>
                    </div>
@@ -23,7 +23,7 @@ export default function Home() {
                     </div>
                 </div>
                 <h1>Top Reviews</h1>
-                {/* <Reviews /> */}
+                <Reviews />
             </div>
         </>
     )

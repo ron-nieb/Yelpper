@@ -6,7 +6,9 @@
       "user_id": 1,
       "rating": 4.5,
       "comment": "Great hotel with excellent service.",
-      "date": "2023-06-07"
+      "date": "2023-06-07",
+      "review": "great ",
+      "editing": false
     },
     {
       "id": 2,
@@ -14,7 +16,9 @@
       "user_id": 2,
       "rating": 3.8,
       "comment": "Decent hotel, but the rooms were a bit small.",
-      "date": "2023-06-06"
+      "date": "2023-06-06",
+      "editing": false,
+      "review": "wagwan"
     },
     {
       "id": 3,
@@ -22,50 +26,61 @@
       "user_id": 3,
       "rating": 5,
       "comment": "Amazing experience! Highly recommended.",
-      "date": "2023-06-05"
+      "date": "2023-06-05",
+      "editing": false,
+      "review": "good one "
     }
   ],
-  
-    "users": [
-      {
-        "id": 1,
-        "name": "John Doe",
-        "email": "john.doe@example.com"
-      },
-      {
-        "id": 2,
-        "name": "Jane Smith",
-        "email": "jane.smith@example.com"
-      },
-      {
-        "id": 3,
-        "name": "Robert Johnson",
-        "email": "robert.johnson@example.com"
-      }
-    ],
-    
-      "hotels": [
-        {
-          "id": 1,
-          "name": "Luxury Hotel",
-          "location": "City Center",
-          "description": "Experience luxury at its finest in our exquisite hotel located in the heart of the city.",
-          "image": "https://example.com/images/hotel1.jpg",
-          "amenities": ["Swimming Pool", "Spa", "Restaurant", "Fitness Center"],
-          "reviews": [1, 2]
-        },
-        {
-          "id": 2,
-          "name": "Seaside Resort",
-          "location": "Beachfront",
-          "description": "Escape to our serene resort by the seaside and enjoy a relaxing vacation.",
-          "image": "https://example.com/images/hotel2.jpg",
-          "amenities": ["Private Beach", "Poolside Bar", "Gym", "Water Sports"],
-          "reviews": [3]
-        }
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com"
+    },
+    {
+      "id": 3,
+      "name": "Robert Johnson",
+      "email": "robert.johnson@example.com"
+    }
+  ],
+  "hotels": [
+    {
+      "id": 1,
+      "name": "Luxury Hotel",
+      "location": "City Center",
+      "description": "Experience luxury at its finest in our exquisite hotel located in the heart of the city.",
+      "image": "https://example.com/images/hotel1.jpg",
+      "amenities": [
+        "Swimming Pool",
+        "Spa",
+        "Restaurant",
+        "Fitness Center"
+      ],
+      "reviews": [
+        1,
+        2
       ]
-    
-    
-  
-  
+    },
+    {
+      "id": 2,
+      "name": "Seaside Resort",
+      "location": "Beachfront",
+      "description": "Escape to our serene resort by the seaside and enjoy a relaxing vacation.",
+      "image": "https://example.com/images/hotel2.jpg",
+      "amenities": [
+        "Private Beach",
+        "Poolside Bar",
+        "Gym",
+        "Water Sports"
+      ],
+      "reviews": [
+        3
+      ]
+    }
+  ]
 }
