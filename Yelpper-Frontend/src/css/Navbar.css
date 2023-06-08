@@ -7,6 +7,10 @@
    
 }
 
-.navbar>form {
-    margin-left: 50%;
+ul {
+    margin-right: 20%;
+}
+
+.form {
+    display: inline-block;
 }

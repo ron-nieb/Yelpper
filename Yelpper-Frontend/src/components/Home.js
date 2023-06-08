@@ -2,7 +2,7 @@ import React from 'react'
 
 import "../css/home.css"
 import Reviews from './Reviews';
-
+import Hotel from './Hotel';
 
 export default function Home() {
     return (
@@ -22,8 +22,19 @@ export default function Home() {
                </div>
                     </div>
                 </div>
-                <h1>Top Reviews</h1>
-                <Reviews />
+                <div className='row'>
+                    <div className='col-md-12'>
+                    <h1>Top Reviews</h1>
+                    <Reviews />
+                    </div>
+                </div>
+                <div className='row'>
+                    <div className='col-md-12'>
+                    <h1>Top Restaurant</h1>
+                    <Hotel />
+                    </div>
+                </div>
+
             </div>
         </>
     )
