@@ -1,4 +1,12 @@
-#searchform {
-display: inline-block;
-border: ipx black solid;
+.searchform {
+    display: inline;
+}
+
+.navbar {
+    padding-left: 10px;
+   
+}
+
+.navbar>form {
+    margin-left: 50%;
 }

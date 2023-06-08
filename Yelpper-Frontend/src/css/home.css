@@ -1,8 +1,21 @@
 
 #coverimg {
-    width: 150%;
-    height: 100vh;
-    background-image: url("https://shorturl.at/jpDNX");
+    
+    margin: 10px;
+    position: absolute;
+    top: 40%;
+    color: white;
+    
+    
+}
+
+#cover {
+   
+    background:linear-gradient(0deg, rgba(123, 133, 219, 0.3), rgba(255, 0, 150, 0.3)), url(https://shorturl.at/jpDNX);
     background-repeat: no-repeat;
-    object-fit: fill;
+    background-size: cover;
+    height:100vh;
+    
+    
+    
 }
