@@ -1,40 +1,42 @@
 {
   "reviews": [
     {
+      "user": "ronnie",
+      "comment": "good one",
+      "hotelId": 1,
       "id": 1,
-      "hotel_id": 1,
-      "user_id": 1,
-      "rating": 4.5,
-      "comment": "Great hotel with excellent service.",
-      "date": "2023-06-07",
-      "review": "great ",
-      "editing": false
-    },
-    {
-      "id": 2,
-      "hotel_id": 1,
-      "user_id": 2,
-      "rating": 3.8,
-      "comment": "Decent hotel, but the rooms were a bit small.",
-      "date": "2023-06-06",
-      "editing": false,
-      "review": "wagwan"
-    },
-    {
-      "id": 3,
-      "hotel_id": 2,
-      "user_id": 3,
-      "rating": 5,
-      "comment": "Amazing experience! Highly recommended.",
-      "date": "2023-06-05",
       "editing": false,
       "review": "good one "
     },
     {
-      "user": "",
-      "comment": "",
+      "user": "kef",
+      "comment": "whiiite",
       "hotelId": 1,
+      "id": 2
+    },
+    {
+      "user": "ronnie",
+      "comment": "good one",
+      "hotelId": 2,
+      "id": 3
+    },
+    {
+      "user": "barasa",
+      "comment": "very nice",
+      "hotelId": 3,
       "id": 4
+    },
+    {
+      "user": "sue",
+      "comment": "better than the rest",
+      "hotelId": 3,
+      "id": 5
+    },
+    {
+      "user": "mike",
+      "comment": "not nice",
+      "hotelId": 6,
+      "id": 6
     }
   ],
   "users": [
@@ -56,49 +58,73 @@
   ],
   "hotels": [
     {
-      "id": 1,
-      "name": "Luxury Hotel",
-      "location": "City Center",
-      "description": "Experience luxury at its finest in our exquisite hotel located in the heart of the city.",
-      "image": "https://example.com/images/hotel1.jpg",
+      "name": "Tarboosh",
+      "location": "Nairobi",
+      "amenities": [
+        "Wi-Fi"
+      ],
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cmVzdGF1cmFudCUyMGludGVyaW9yfGVufDB8fDB8fHww&w=1000&q=80",
+      "id": 2
+    },
+    {
+      "name": "Kenya One",
+      "location": "Mombasa",
       "amenities": [
         "Swimming Pool",
-        "Spa",
-        "Restaurant",
-        "Fitness Center"
+        "Parking"
       ],
-      "reviews": [
-        1,
-        2
-      ]
+      "image": "https://media.istockphoto.com/id/1084572788/photo/3d-render-of-luxury-restaurant.jpg?s=612x612&w=0&k=20&c=qGxC0jvu17bspV4CFcwyAvFvyGMeGZdigRsCYbwfoZM=",
+      "id": 4
     },
     {
-      "id": 2,
-      "name": "Seaside Resort",
-      "location": "Beachfront",
-      "description": "Escape to our serene resort by the seaside and enjoy a relaxing vacation.",
-      "image": "https://example.com/images/hotel2.jpg",
+      "name": "Vegas Front",
+      "location": "Vegas",
       "amenities": [
-        "Private Beach",
-        "Poolside Bar",
         "Gym",
-        "Water Sports"
+        "Restaurant"
       ],
-      "reviews": [
-        3
-      ]
+      "image": "https://images.unsplash.com/photo-1538333581680-29dd4752ddf2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cmVzdGF1cmFudCUyMGludGVyaW9yfGVufDB8fDB8fHww&w=1000&q=80",
+      "id": 5
     },
     {
-      "name": "rnoo",
-      "location": "nai",
+      "name": "Sunset Front",
+      "location": "Taita",
       "amenities": [
         "Wi-Fi",
-        "Parking",
-        "Swimming Pool",
-        "Gym"
+        "Swimming Pool"
       ],
-      "description": "jdd",
-      "id": 3
+      "image": "https://restaurantinteriordesign.eu/wp-content/uploads/2018/06/Jean-Georges-at-Connaught.jpg",
+      "id": 6
+    },
+    {
+      "name": "La Paradiso",
+      "location": "Nakuru",
+      "amenities": [
+        "Parking",
+        "Swimming Pool"
+      ],
+      "image": "https://i0.wp.com/theluxurytravelexpert.com/wp-content/uploads/2022/10/best-hotel-restaurants-in-the-world.jpg?fit=1300%2C731&ssl=1",
+      "id": 7
+    },
+    {
+      "name": "Indie cuisine",
+      "location": "Nairobi",
+      "amenities": [
+        "Wi-Fi",
+        "Parking"
+      ],
+      "image": "https://static.toiimg.com/photo/51076300.cms",
+      "id": 8
+    },
+    {
+      "name": "Hotel Snow",
+      "location": "Kisumu",
+      "amenities": [
+        "Wi-Fi",
+        "Swimming Pool"
+      ],
+      "image": "https://media.glamourmagazine.co.uk/photos/644a438bd0e433502273d76e/16:9/w_2580,c_limit/ROMANTIC%20RESTAURANTS%20090223%20LDN-Red-Hero-P10612-124-RED_SF%202.jpg",
+      "id": 9
     }
   ]
 }

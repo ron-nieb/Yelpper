@@ -14,3 +14,8 @@ ul {
 .form {
     display: inline-block;
 }
+
+.thumbnail-image {
+    width: 10%;
+    height: 10%;
+}
