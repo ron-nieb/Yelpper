@@ -1,44 +1,5 @@
 {
-  "reviews": [
-    {
-      "user": "ronnie",
-      "comment": "good one",
-      "hotelId": 1,
-      "id": 1,
-      "editing": false,
-      "review": "good one "
-    },
-    {
-      "user": "kef",
-      "comment": "whiiite",
-      "hotelId": 1,
-      "id": 2
-    },
-    {
-      "user": "ronnie",
-      "comment": "good one",
-      "hotelId": 2,
-      "id": 3
-    },
-    {
-      "user": "barasa",
-      "comment": "very nice",
-      "hotelId": 3,
-      "id": 4
-    },
-    {
-      "user": "sue",
-      "comment": "better than the rest",
-      "hotelId": 3,
-      "id": 5
-    },
-    {
-      "user": "mike",
-      "comment": "not nice",
-      "hotelId": 6,
-      "id": 6
-    }
-  ],
+  "reviews": [],
   "users": [
     {
       "id": 1,
@@ -125,6 +86,27 @@
       ],
       "image": "https://media.glamourmagazine.co.uk/photos/644a438bd0e433502273d76e/16:9/w_2580,c_limit/ROMANTIC%20RESTAURANTS%20090223%20LDN-Red-Hero-P10612-124-RED_SF%202.jpg",
       "id": 9
+    },
+    {
+      "name": "Nyali Beach Front",
+      "location": "Nyali",
+      "amenities": [
+        "Wi-Fi",
+        "Parking",
+        "Swimming Pool"
+      ],
+      "image": "https://media.shermanstravel.com/thumb/large/conservatory-day-jpeg.jpeg",
+      "id": 10
+    },
+    {
+      "name": "fadhela",
+      "location": "nairobi",
+      "amenities": [
+        "Wi-Fi",
+        "Parking"
+      ],
+      "image": "https://media.shermanstravel.com/thumb/large/conservatory-day-jpeg.jpeg",
+      "id": 11
     }
   ]
 }
