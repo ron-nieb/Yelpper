@@ -57,6 +57,7 @@ The Yelpper Restaurant Reviews App is a web application that allows users to vie
 - Axios: A popular HTTP client for making API requests.
 - HTML: The standard markup language for creating web pages.
 - CSS: A stylesheet language used for styling web pages.
+- Ruby:
 
 ## Getting Started
 
